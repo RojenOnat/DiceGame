@@ -18,11 +18,12 @@ Map Data:
 
 -----------------------------------------------
 
+<img width="270" alt="Ekran Resmi 2024-12-06 18 37 04" src="https://github.com/user-attachments/assets/85dfe79c-7598-499b-9b0e-3f876fd9a582">
 
+Inputfield alanlarına 1 - 6 arasında gelmesini istediğimiz zar değerlerini girip yanlarındaki buttonlara basarak verileri kaydediyoruz.
 
-
+________________________________________________
 
 <img width="542" alt="Ekran Resmi 2024-12-06 18 37 31" src="https://github.com/user-attachments/assets/cbcf15f3-aec1-4440-b5ea-9732d228e89a">
 <img width="458" alt="Ekran Resmi 2024-12-06 18 37 17" src="https://github.com/user-attachments/assets/765e8c45-d463-4680-a6ba-2afd8db225bd">
 <img width="162" alt="Ekran Resmi 2024-12-06 18 37 11" src="https://github.com/user-attachments/assets/528ba567-488b-456c-99ad-e4d518a0328d">
-<img width="270" alt="Ekran Resmi 2024-12-06 18 37 04" src="https://github.com/user-attachments/assets/85dfe79c-7598-499b-9b0e-3f876fd9a582">
